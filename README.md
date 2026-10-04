@@ -16,7 +16,7 @@ Definitely get a higher FOV camera; this one can barely see what I’m doing.
 
 ## Demo video
 
-[Watch the demo video](assets/journal-entry-003/my-demo-video.mp4)
+[Watch the demo video](https://youtu.be/GmYpVjxm2xM)
 
 ## Bill of materials
 
