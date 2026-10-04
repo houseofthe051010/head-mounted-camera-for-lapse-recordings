@@ -19,6 +19,7 @@ Definitely get a higher FOV camera; this one can barely see what I’m doing.
 | [USB extender (optional)](https://a.aliexpress.com/_ms0uDrl) | $1.09 |
 | **Total without extender** | **$5.35** |
 | **Total with extender** | **$6.44** |
+
 ## Assembly instructions
 
 1. First, print all the parts in the [printable STL files in the CAD folder](CAD/Individual%20STL%20files).
