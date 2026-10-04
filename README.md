@@ -25,7 +25,9 @@ Definitely get a higher FOV camera; this one can barely see what I’m doing.
 | [USB camera](https://a.aliexpress.com/_m0Khjwj) | $4.14 |
 | [TPU filament](https://www.amazon.com/dp/B0C2Z1LJGM), 56 g | $1.21 |
 | [USB extender (optional, included in total)](https://a.aliexpress.com/_ms0uDrl) | $1.09 |
-| **Total, including USB extender** | **$6.44** |
+| [M3 button-head screw, 10 mm, and nut](https://www.amazon.com/dp/B0DFWYBJJJ) | $0.02 |
+| [Super glue](https://www.amazon.com/dp/B00KPYB05A), 2 mL | $0.66 |
+| **Total, including USB extender** | **$7.12** |
 
 See the [BOM CSV](BOM.csv).
 
