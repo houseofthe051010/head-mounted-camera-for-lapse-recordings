@@ -10,15 +10,24 @@ Definitely get a higher FOV camera; this one can barely see what I’m doing.
 
 ![The head-mounted camera and TPU strap](assets/project-device.jpg)
 
+## Fully assembled CAD
+
+![Fully assembled CAD model of the head-mounted camera strap](assets/assembled-cad.jpg)
+
+## Demo video
+
+[Watch the demo video](assets/journal-entry-003/my-demo-video.mp4)
+
 ## Bill of materials
 
 | Item | Cost |
 | --- | ---: |
 | [USB camera](https://a.aliexpress.com/_m0Khjwj) | $4.14 |
 | [TPU filament](https://www.amazon.com/dp/B0C2Z1LJGM), 56 g | $1.21 |
-| [USB extender (optional)](https://a.aliexpress.com/_ms0uDrl) | $1.09 |
-| **Total without extender** | **$5.35** |
-| **Total with extender** | **$6.44** |
+| [USB extender (optional, included in total)](https://a.aliexpress.com/_ms0uDrl) | $1.09 |
+| **Total, including USB extender** | **$6.44** |
+
+See the [BOM CSV](BOM.csv).
 
 ## Assembly instructions
 
