@@ -19,3 +19,28 @@ Definitely get a higher FOV camera; this one can barely see what I’m doing.
 | [USB extender (optional)](https://a.aliexpress.com/_ms0uDrl) | $1.09 |
 | **Total without extender** | **$5.35** |
 | **Total with extender** | **$6.44** |
+## Assembly instructions
+
+1. First, print all the parts in the [printable STL files in the CAD folder](CAD/Individual%20STL%20files).
+
+   ![The printed strap and camera mount pieces](assets/assembly-instructions/01-printed-parts.jpg)
+
+2. Next, get the three 240 mm strap pieces. Align them according to the CAD. Put the Adapter 240 mm piece in the center, the strap with holes on the right, and the mushroom strap on the left. The extruded circles should face each other.
+
+3. Apply glue to the aligned pieces.
+
+   ![Glue applied to the strap joint](assets/assembly-instructions/02-glue-joint.jpg)
+
+4. Put the strap joiners on, making sure they mesh with the extruded circles.
+
+5. To further secure the attachment, use a soldering iron to melt the plastic pieces together.
+
+   ![The strap joint after using a soldering iron](assets/assembly-instructions/03-soldered-joint.jpg)
+
+6. Use an M3 button-head screw that is 10 mm long and a nut to secure the camera adapter to the strap.
+
+   ![Back of the camera adapter and strap connection](assets/assembly-instructions/04-camera-adapter-back.jpg)
+
+   ![Front of the camera adapter and strap connection](assets/assembly-instructions/05-camera-adapter-front.jpg)
+
+7. Put the camera on the ball pivot. You can attach a USB extender for more range if you have one. Connect it to your computer to record.
