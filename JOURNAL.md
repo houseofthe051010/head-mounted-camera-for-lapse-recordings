@@ -1,10 +1,11 @@
 ---
 title: "Head mounted camera for Lapse recordings"
+author: "houseofthe051010"
 description: "A head-mounted camera with a TPU strap for recording build time-lapse sessions."
-created_at: 2026-09-25
+created_at: "2026-09-26"
 ---
 
-# 2026-09-25: Researching ideas
+# September 26: Researching ideas
 
 The goal of this project was to build a cheap head-mounted camera that I can use for recording lapse timelines when I am building my projects. I couldn't find a solution for this, and existing head-mounted recorders are expensive and can't record live to Lapse.
 
@@ -30,7 +31,7 @@ Also, I will buy this USB extender so I can actually move while recording.
 
 **Total time spent: 15 minutes**
 
-# 2026-10-03: Cadding the strap
+# October 3: Cadding the strap
 
 I took measurements of the camera and also dried my TPU, then put it into my printer.
 
@@ -57,7 +58,7 @@ I will see tomorrow morning and see how it works.
 
 **Total time spent: 2 hours**
 
-# 2026-10-03: Building the camera and testing it
+# October 3: Building the camera and testing it
 
 So I glued the attachment pieces together, and I actually used a soldering iron on top of the glue because I think the iron might actually be better as it joins the structure together.
 
